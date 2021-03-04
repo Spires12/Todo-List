@@ -1,0 +1,16 @@
+{
+  "name": "estudos_marcelo",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "node src/app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
